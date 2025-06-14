@@ -4,7 +4,7 @@ This project implements an intelligent, modular Retrieval-Augmented Generation (
 
 The system routes each user query through an adaptive flow that includes retrieval, answer generation, hallucination grading (via both LLM and NLI models), and self-reflective correction. It supports both indexed document retrieval and live web search, making it flexible for multi-domain applications.
 
-![Architecture]
+
 
 ![Screenshot 2025-06-14 150943](https://github.com/user-attachments/assets/505fa0be-8e61-49d3-9231-6b67824d74b2)
 
